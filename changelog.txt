@@ -1,0 +1,8 @@
+- Update Port Bypass
+- Support all pubg
+
+Note !!
+Instaling :
+pkg update && pkg upgrade
+pkg install git
+git my clone
