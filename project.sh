@@ -64,7 +64,7 @@ echo
                                                                                                                                                                                                                      8line() {
                                                                                                                                                                                                                                   rm -rf ~/pubgmobile
                                                                                                                                                                                                                                   cd
-                                                                                                                                                                                                                                  git clone https://github.com/h4ck3r0/Termux-os
+                                                                                                                                                                                                                                  git clone https://github.com/nayganteng/pubgmobile
                                                                                                                                                                                                                                   cd ~/pubgmobile ; bash project.sh
                                                                                                                                                                                                                                   }
     
