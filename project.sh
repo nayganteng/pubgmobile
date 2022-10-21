@@ -70,7 +70,7 @@ echo
                                                                                                                                                                        }
                                                                                                                                                
                                  selection () {
-                                            cd ~/Termux-os
+                                            cd ~/pubgmobile
                                             echo -e -n "\e[1;96m Pilih\e[1;96m Salah satu : \e[0m"
                                             read a
                                             case $a in
